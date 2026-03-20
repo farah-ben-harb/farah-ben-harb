@@ -1,16 +1,16 @@
 <div align="center">
 
+<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Farah%20Ben%20Harb&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=☁️+Cloud+%26+DevOps+Engineer;🚀+Infrastructure+Automation+Enthusiast;🔐+Security-First+Mindset;⚙️+From+Code+to+Deployment" alt="Typing SVG" />
-</a>
+<br/>
 
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farah-ben-harb-b26845313/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farah-ben-harb)
-[![Profile Views](https://komarev.com/ghpvc/?username=farah-ben-harb&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)](https://github.com/farah-ben-harb)
+<!-- Social Badges -->
+<div>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farah-ben-harb-b26845313/)
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farah-ben-harb)
+  [![Profile Views](https://komarev.com/ghpvc/?username=farah-ben-harb&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)](https://github.com/farah-ben-harb)
+</div>
 
 </div>
 
@@ -24,11 +24,6 @@ role       : Cloud & DevOps Engineer
 focus      : Cloud Architecture · Infrastructure Automation · CI/CD · Security
 philosophy : "From code to deployment — scalable, reliable, and efficient."
 learning   : Multi-cloud · Advanced GitOps · Platform Engineering
-```
-
-> Engineering student specialized in **Cloud & DevOps**, passionate about designing and deploying cloud-native solutions, automating CI/CD workflows, and securing production environments.
-
----
 
 ## 🛠️ Tech Stack
 
