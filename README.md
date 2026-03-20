@@ -1,56 +1,61 @@
-# Farah Benharb  
+# Hi there 👋, I'm Farah Ben Harb
 
-<img src="https://avatars.githubusercontent.com/farah-ben-harb" width="120" align="right" />
+☁️ **Cloud & DevOps Engineer | AWS, Azure, Kubernetes, OpenStack**
 
-Cloud & DevOps Engineer | Cloud Infrastructure & Automation  
-
----
-
-## About  
-
-I specialize in **Cloud Architecture and DevOps**, focusing on designing and deploying **cloud-native infrastructures**, implementing **CI/CD pipelines**, and automating infrastructure at scale.  
-
-With hands-on experience in **Kubernetes, OpenStack, Docker, Ansible, Terraform, and Microservices**, I build systems from **architecture to deployment**, ensuring **scalability, reliability, and efficiency**.  
+I’m a Computer Science engineering student passionate about **Cloud Architecture, DevOps, and Infrastructure Automation**.  
+I design and deploy cloud-native solutions, automate CI/CD workflows, and secure production environments.  
+I approach projects from **code to deployment**, delivering **scalable, reliable, and efficient systems**.  
 
 ---
 
-## Technical Skills  
-
-**Cloud & DevOps**  
-Kubernetes • OpenStack • Docker • Ansible • Terraform • CI/CD  
-
-**Programming**  
-Java • TypeScript  
-
-**Frontend**  
-Angular  
-
-**Databases**  
-PostgreSQL • MySQL  
+## 🧰 About Me
+- Engineering student specializing in **Cloud & DevOps**
+- Experienced with **cloud-native architecture** and **infrastructure as code**
+- Passionate about automating workflows and improving system reliability
+- Always learning new technologies and following industry best practices
 
 ---
 
-## Projects  
+## 🚀 Skills
 
-- Kubernetes Cluster Deployment with Ansible & Monitoring (Prometheus, Grafana)  
-- OpenStack Infrastructure Automation using Heat  
-- Smart Farm – Qt C++ & Arduino Application  
-- Campus Ideas – Angular Application  
+### Cloud & DevOps
+AWS | Azure | OpenStack | Kubernetes | Docker | Terraform | Ansible  
 
----
+### Programming & Tools
+Python | Bash | Git | CI/CD Pipelines | Linux  
 
-## GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farah-ben-harb&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farah-ben-harb&layout=compact" />
-</p>
+### Monitoring & Automation
+Grafana | Prometheus | Jenkins | Helm | Cloud Security  
 
 ---
 
-## Contact  
-
-LinkedIn: https://www.linkedin.com/in/farah-ben-harb-b26845313/  
-GitHub: https://github.com/farah-ben-harb  
+## 💻 Projects & Achievements
+- Automated deployment of **Kubernetes clusters** with **Ansible**  
+- Integrated **monitoring with Grafana & Prometheus** for production environments  
+- Built **infrastructure templates** for private cloud using **OpenStack Heat**  
+- Developed **full-stack applications** for educational and professional projects  
 
 ---
+
+## 📈 GitHub Stats
+
+![Farah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farah-ben-harb&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farah-ben-harb&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 📫 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/farah-ben-harb-b26845313/) | [GitHub](https://github.com/farah-ben-harb)
+
+---
+
+## 🎯 Goals
+- Become a skilled **Cloud & DevOps Engineer** capable of designing **secure, scalable, and efficient systems**  
+- Contribute to open-source cloud and automation projects  
+- Master **multi-cloud deployments** and **advanced CI/CD pipelines**
+
+---
+
+> "Cloud and DevOps are not just tools—they are a mindset to build reliable, scalable, and secure systems."
