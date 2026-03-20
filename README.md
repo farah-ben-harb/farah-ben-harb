@@ -101,18 +101,6 @@ learning   : Multi-cloud · Advanced GitOps · Platform Engineering
 
 ---
 
-## 🎯 2025 Goals
-
-| Goal | Status |
-|------|--------|
-| 🌐 Master multi-cloud deployments (AWS + Azure) | 🔄 In Progress |
-| 🔁 Build advanced GitOps & CI/CD pipelines | 🔄 In Progress |
-| 🔐 Deep-dive into Cloud Security & Zero Trust | 📋 Planned |
-| 🤝 Contribute to open-source DevOps projects | 📋 Planned |
-| 📜 Earn AWS / Azure certification | 📋 Planned |
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
