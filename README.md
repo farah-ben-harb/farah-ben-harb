@@ -6,11 +6,15 @@
 <br/>
 
 <!-- Social Badges -->
-<div>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farah-ben-harb-b26845313/)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farah-ben-harb)
-  [![Profile Views](https://komarev.com/ghpvc/?username=farah-ben-harb&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)](https://github.com/farah-ben-harb)
-</div>
+<a href="https://www.linkedin.com/in/farah-ben-harb-b26845313/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/farah-ben-harb">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/farah-ben-harb">
+  <img src="https://komarev.com/ghpvc/?username=farah-ben-harb&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
+</a>
 
 </div>
 
@@ -24,6 +28,9 @@ role       : Cloud & DevOps Engineer
 focus      : Cloud Architecture · Infrastructure Automation · CI/CD · Security
 philosophy : "From code to deployment — scalable, reliable, and efficient."
 learning   : Multi-cloud · Advanced GitOps · Platform Engineering
+```
+
+---
 
 ## 🛠️ Tech Stack
 
