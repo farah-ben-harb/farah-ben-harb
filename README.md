@@ -2,7 +2,7 @@
 
 ---
 
-**Software Engineering Student & Cloud Enthusiast**
+**Cloud Computing Engineering Student **
 
 Tech is my toolkit, and here's why:
 
