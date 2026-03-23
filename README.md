@@ -2,7 +2,7 @@
 
 ---
 
-** Cloud Computing Engineering Student  **
+☁️ **Engineering Student specializing in Cloud Computing**
 
 Tech is my toolkit, and here's why:
 
