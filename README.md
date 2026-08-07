@@ -1,27 +1,33 @@
-# Hi 👋, I'm Farah Ben Harb
+# Farah Ben Harb
 
----
+Cloud, DevOps, and DevSecOps engineer building practical infrastructure, delivery pipelines, and production-style portfolio projects.
 
-☁️ **Engineering Student specializing in Cloud Computing**
+My public repositories focus on:
 
-Tech is my toolkit, and here's why:
+- Azure, OpenStack, and private-cloud delivery
+- Kubernetes, Docker, Helm, and GitOps
+- Terraform, Ansible, and infrastructure automation
+- GitHub Actions, Jenkins, and CI/CD design
+- Prometheus, Grafana, and observability
+- Secure delivery practices such as secret scanning, dependency checks, and container scanning
 
-- **Problem Solver:** I turn infrastructure challenges into automated, scalable cloud solutions.
-- **Cloud Builder:** I design and deploy cloud architectures across AWS, Azure, and OpenStack.
-- **DevOps Engineer:** I build CI/CD pipelines and automate everything from code to production.
+## Featured repositories
 
----
+| Repository | What it shows |
+| --- | --- |
+| [devsecops-incident-platform](https://github.com/farah-ben-harb/devsecops-incident-platform) | FastAPI incident API with Jenkins CI, GHCR publishing, security scanning, and GitOps delivery |
+| [gitops-delivery-platform](https://github.com/farah-ben-harb/gitops-delivery-platform) | Kubernetes manifests, Argo CD reconciliation, and deployment separation of concerns |
+| [flask-azure-devops-pipeline](https://github.com/farah-ben-harb/flask-azure-devops-pipeline) | Flask CI/CD on Azure with GitHub Actions, Terraform, Docker, and monitoring |
+| [alif-app](https://github.com/farah-ben-harb/alif-app) | Multi-service application architecture with Angular, Spring Boot, and AI-assisted features |
+| [farah-me](https://github.com/farah-ben-harb/farah-me) | My personal portfolio site and frontend presentation layer |
 
-### Connect with me:
+## What I want recruiters to see
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/farah-ben-harb-b26845313)
+- I can design and explain end-to-end delivery workflows
+- I understand the difference between application code, infrastructure code, and deployment code
+- I use Git professionally with branches, pull requests, and readable commit history
+- I care about security, testing, and operational clarity
 
----
+## Contact
 
-### 🛠️ Languages & Tools I'm familiar with:
-
-<img src="https://skillicons.dev/icons?i=python,bash,git,linux" />
-<img src="https://skillicons.dev/icons?i=aws,azure" />
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,helm" />
-<img src="https://skillicons.dev/icons?i=terraform,ansible,jenkins" />
-<img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+- LinkedIn: [farah-ben-harb](https://linkedin.com/in/farah-ben-harb-b26845313)
