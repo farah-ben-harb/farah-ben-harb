@@ -1,33 +1,27 @@
-# Farah Ben Harb
+# Hi 👋, I'm Farah Ben Harb
 
-Cloud, DevOps, and DevSecOps engineer focused on practical delivery systems, Kubernetes platforms, infrastructure automation, and secure CI/CD.
+---
 
-## Featured Projects
+☁️ **Engineering Student specializing in Cloud Computing**
 
-| Repository | Why it matters |
-| --- | --- |
-| [devsecops-incident-platform](https://github.com/farah-ben-harb/devsecops-incident-platform) | FastAPI incident platform with Jenkins CI, security scanning, GHCR publishing, and GitOps delivery |
-| [gitops-delivery-platform](https://github.com/farah-ben-harb/gitops-delivery-platform) | Kubernetes manifests and Argo CD reconciliation for a clean GitOps separation of concerns |
-| [flask-azure-devops-pipeline](https://github.com/farah-ben-harb/flask-azure-devops-pipeline) | Azure CI/CD project with GitHub Actions, Terraform, Docker, and observability |
-| [alif-app](https://github.com/farah-ben-harb/alif-app) | Multi-service application architecture with Angular, Spring Boot, and AI-assisted features |
-| [farah-me](https://github.com/farah-ben-harb/farah-me) | My personal portfolio site and public presentation layer |
+Tech is my toolkit, and here's why:
 
-## What I Build
+- **Problem Solver:** I turn infrastructure challenges into automated, scalable cloud solutions.
+- **Cloud Builder:** I design and deploy cloud architectures across AWS, Azure, and OpenStack.
+- **DevOps Engineer:** I build CI/CD pipelines and automate everything from code to production.
 
-- Cloud and platform delivery on Azure and OpenStack
-- Kubernetes, Docker, Helm, and GitOps workflows
-- Terraform, Ansible, and infrastructure as code
-- GitHub Actions, Jenkins, and CI/CD automation
-- Prometheus, Grafana, and observability
-- Security-minded delivery with secret scanning, dependency checks, and container scanning
+---
 
-## What I Want Recruiters To See
+### Connect with me:
 
-- I can explain end-to-end software delivery, not just write code
-- I understand the difference between application, infrastructure, and deployment repositories
-- I use Git professionally with branches, pull requests, and clear commit history
-- I care about security, testing, and maintainability
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/farah-ben-harb-b26845313)
 
-## Contact
+---
 
-- LinkedIn: [farah-ben-harb](https://linkedin.com/in/farah-ben-harb-b26845313)
+### 🛠️ Languages & Tools I'm familiar with:
+
+<img src="https://skillicons.dev/icons?i=python,bash,git,linux" />
+<img src="https://skillicons.dev/icons?i=aws,azure" />
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,helm" />
+<img src="https://skillicons.dev/icons?i=terraform,ansible,jenkins" />
+<img src="https://skillicons.dev/icons?i=grafana,prometheus" />
