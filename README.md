@@ -13,9 +13,11 @@ I build and document cloud infrastructure and delivery workflows. My public proj
 
 ### 🚀 Featured projects
 
-- **[FootballMatch AI Platform](https://github.com/farah-ben-harb/footballmatch-ai-platform-mlops)** — A local football-video analysis service with FastAPI, MLflow tracking, automated tests, a Helm chart, Prometheus metrics, and an Argo CD manifest. The repository documents a CPU-based demo and its single-process job limit.
-- **[DevSecOps Incident Platform](https://github.com/farah-ben-harb/devsecops-incident-platform)** — A FastAPI/PostgreSQL incident API with tests and a Jenkins pipeline for security checks and container delivery.
+- **[FootballMatch AI Platform](https://github.com/farah-ben-harb/footballmatch-ai-platform-mlops)** — A CPU-based football-video analysis service with OpenCV, YOLO11n, FastAPI, MLflow tracking, automated tests, Docker Compose, Helm, Prometheus metrics, and an Argo CD manifest. Jobs are stored in one API process.
+- **[DevSecOps Incident Platform](https://github.com/farah-ben-harb/devsecops-incident-platform)** — A FastAPI/PostgreSQL incident API with tests and a Jenkins pipeline defining secret, dependency, and container scans plus image delivery to GHCR.
 - **[GitOps Delivery Platform](https://github.com/farah-ben-harb/gitops-delivery-platform)** — The incident API's Kubernetes manifests, Kustomize overlay, Argo CD configuration, ServiceMonitor, and Grafana dashboard.
+- **Private cloud on OpenStack** — [Heat infrastructure](https://github.com/farah-ben-harb/openstack-heat-infrastructure), [Ansible Kubernetes automation](https://github.com/farah-ben-harb/k8s-cluster-automation), [Alif application manifests](https://github.com/farah-ben-harb/Alif.tn-App-k8s), and a [Prometheus-based anomaly detection service](https://github.com/farah-ben-harb/kubernetes-anomaly-detection-openstack). These repositories cover infrastructure definitions, cluster bootstrap, workloads, and observability.
+- **[Cryptocurrency analysis](https://github.com/farah-ben-harb/CryptoCurrency-Project)** — A Jupyter notebook exploring market data with PCA, clustering, classification, and regression. This is an exploratory ML project, with no automated MLOps pipeline in the repository.
 - **[Flask Azure DevOps Pipeline](https://github.com/farah-ben-harb/flask-azure-devops-pipeline)** — A Flask service with tests, Docker packaging, Azure Terraform configuration, GitHub Actions, and Prometheus/Grafana monitoring.
 
 ---
@@ -24,23 +26,25 @@ I build and document cloud infrastructure and delivery workflows. My public proj
 
 **Cloud & infrastructure**<br>
 <img src="https://skillicons.dev/icons?i=azure,terraform,ansible" alt="Azure, Terraform, Ansible" height="40" /><br>
-Azure · OpenStack Heat · Terraform · Ansible
+Azure · OpenStack (Heat, Nova, Neutron, Cinder) · cloud-init · Terraform · Ansible
 
 **Containers & GitOps**<br>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" alt="Docker, Kubernetes, Helm" height="40" /><br>
-Docker · Kubernetes · Helm · Kustomize · Argo CD
+Docker · Docker Compose · Kubernetes · K3s · kubeadm · containerd · Calico · MetalLB · Helm · Kustomize · Argo CD · kind
 
 **CI/CD & security**<br>
 <img src="https://skillicons.dev/icons?i=github,jenkins" alt="GitHub, Jenkins" height="40" /><br>
-GitHub Actions · Jenkins · Gitleaks · Trivy · Semgrep
+GitHub Actions · Jenkins · GHCR · Gitleaks · Trivy · Semgrep · pip-audit · pytest · Ruff
 
 **Observability**<br>
 <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Prometheus, Grafana" height="40" /><br>
-Prometheus · Grafana
+Prometheus · Grafana · Alertmanager · ServiceMonitor · Dynatrace (internship)
 
-**Programming & MLOps**<br>
+**Programming, data & ML**<br>
 <img src="https://skillicons.dev/icons?i=python,bash,git,linux" alt="Python, Bash, Git, Linux" height="40" /><br>
-Python · Bash · FastAPI · Flask · PostgreSQL · scikit-learn · MLflow
+Python · Bash · Git · Linux · Java · TypeScript · FastAPI · Flask · PostgreSQL · SQLAlchemy · MySQL · Jupyter · pandas · NumPy · scikit-learn · MLflow · OpenCV · YOLO11n (Ultralytics) · FFmpeg · XGBoost · CatBoost
+
+*Optional stages configured in the Jenkins pipeline: OWASP Dependency-Check and SonarQube.*
 
 ---
 
