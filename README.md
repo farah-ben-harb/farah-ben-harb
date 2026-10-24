@@ -3,7 +3,6 @@
 ---
 
 ☁️ **Cloud & DevOps engineering student** | ESPRIT (Tunisia) <br>
-🎯 Seeking a **six-month final-year internship from March 2027** in Cloud Engineering, DevOps, DevSecOps, SRE, or Platform Engineering.
 
 ### About me
 
