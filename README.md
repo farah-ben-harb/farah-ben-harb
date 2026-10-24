@@ -1,33 +1,50 @@
-# Farah Ben Harb
+# Hi 👋, I'm Farah Ben Harb
 
-Final-year computer engineering student at ESPRIT, specializing in IT architecture and cloud computing, and an exchange student at ESIGELEC in France. I build reproducible infrastructure and delivery workflows, with a focus on cloud engineering, DevOps, security, and observability. I am seeking a six-month final-year internship starting in **March 2027**.
+---
 
-## Engineering focus
+☁️ **Cloud & DevOps engineering student** | ESPRIT (Tunisia) · exchange at ESIGELEC (France)<br>
+🎯 Seeking a **six-month final-year internship from March 2027** in Cloud Engineering, DevOps, DevSecOps, SRE, or Platform Engineering.
 
-- **Infrastructure and automation:** Terraform on Azure; OpenStack Heat; Ansible-based Kubernetes provisioning.
-- **Cloud-native delivery:** Docker, Kubernetes, Helm, GitHub Actions, Jenkins, and Argo CD configurations.
-- **Operational feedback:** Prometheus metrics, Grafana dashboards, and security checks in CI.
+### About me
 
-These technologies are represented across my public repositories. The project links show implementation that can be inspected here.
+I build and document cloud infrastructure and delivery workflows. My public projects focus on infrastructure as code, Kubernetes and GitOps, CI security checks, and observability. Each project below links to the implementation and its current limitations.
 
-## Featured projects
+---
 
-| Project | What it demonstrates |
-| --- | --- |
-| [FootballMatch AI Platform](https://github.com/farah-ben-harb/footballmatch-ai-platform-mlops) | A FastAPI video-analysis service with MLflow tracking, tests, container packaging, a Helm chart, Prometheus metrics, and an Argo CD manifest. The README documents local validation and the current single-process job limitation. |
-| [DevSecOps Incident Platform](https://github.com/farah-ben-harb/devsecops-incident-platform) | An incident API backed by PostgreSQL, with tests, a Jenkins pipeline, image publishing, and security scanning stages. Its deployment configuration lives in the companion GitOps repository. |
-| [GitOps Delivery Platform](https://github.com/farah-ben-harb/gitops-delivery-platform) | Kubernetes manifests and a Kustomize overlay reconciled by Argo CD, with a ServiceMonitor and a Grafana dashboard for the incident API. |
-| [Flask Azure DevOps Pipeline](https://github.com/farah-ben-harb/flask-azure-devops-pipeline) | A Flask service with tests, Docker packaging, Azure Terraform configuration, GitHub Actions, and a Prometheus/Grafana monitoring stack. Azure deployment requires an external account and runner. |
+### 🚀 Featured projects
 
-## Technology in these repositories
+- **[FootballMatch AI Platform](https://github.com/farah-ben-harb/footballmatch-ai-platform-mlops)** — A local football-video analysis service with FastAPI, MLflow tracking, automated tests, a Helm chart, Prometheus metrics, and an Argo CD manifest. The repository documents a CPU-based demo and its single-process job limit.
+- **[DevSecOps Incident Platform](https://github.com/farah-ben-harb/devsecops-incident-platform)** — A FastAPI/PostgreSQL incident API with tests and a Jenkins pipeline for security checks and container delivery.
+- **[GitOps Delivery Platform](https://github.com/farah-ben-harb/gitops-delivery-platform)** — The incident API's Kubernetes manifests, Kustomize overlay, Argo CD configuration, ServiceMonitor, and Grafana dashboard.
+- **[Flask Azure DevOps Pipeline](https://github.com/farah-ben-harb/flask-azure-devops-pipeline)** — A Flask service with tests, Docker packaging, Azure Terraform configuration, GitHub Actions, and Prometheus/Grafana monitoring.
 
-| Area | Tools and platforms |
-| --- | --- |
-| Cloud and infrastructure | Azure, OpenStack, Terraform, Heat, Ansible |
-| Containers and delivery | Docker, Kubernetes, Helm, Kustomize, Argo CD, GitHub Actions, Jenkins |
-| Observability and security | Prometheus, Grafana, Gitleaks, Trivy |
-| Application and MLOps | Python, FastAPI, Flask, PostgreSQL, scikit-learn, MLflow |
+---
 
-## Contact
+### 🛠️ Tech stack & tools
 
-[LinkedIn](https://www.linkedin.com/in/farah-ben-harb-b26845313/) · [Email](mailto:benharbfarah85@gmail.com) · [GitHub repositories](https://github.com/farah-ben-harb?tab=repositories)
+**Cloud & infrastructure**<br>
+<img src="https://skillicons.dev/icons?i=azure,terraform,ansible" alt="Azure, Terraform, Ansible" height="40" /><br>
+Azure · OpenStack Heat · Terraform · Ansible
+
+**Containers & GitOps**<br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" alt="Docker, Kubernetes, Helm" height="40" /><br>
+Docker · Kubernetes · Helm · Kustomize · Argo CD
+
+**CI/CD & security**<br>
+<img src="https://skillicons.dev/icons?i=github,jenkins" alt="GitHub, Jenkins" height="40" /><br>
+GitHub Actions · Jenkins · Gitleaks · Trivy · Semgrep
+
+**Observability**<br>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Prometheus, Grafana" height="40" /><br>
+Prometheus · Grafana
+
+**Programming & MLOps**<br>
+<img src="https://skillicons.dev/icons?i=python,bash,git,linux" alt="Python, Bash, Git, Linux" height="40" /><br>
+Python · Bash · FastAPI · Flask · PostgreSQL · scikit-learn · MLflow
+
+---
+
+### Connect with me
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/farah-ben-harb-b26845313/)<br>
+[Email](mailto:benharbfarah85@gmail.com) · [Repositories](https://github.com/farah-ben-harb?tab=repositories)
