@@ -18,6 +18,7 @@ I build and document cloud infrastructure and delivery workflows. My public proj
 - **[GitOps Delivery Platform](https://github.com/farah-ben-harb/gitops-delivery-platform)** — The incident API's Kubernetes manifests, Kustomize overlay, Argo CD configuration, ServiceMonitor, and Grafana dashboard.
 - **Private cloud on OpenStack** — [Heat infrastructure](https://github.com/farah-ben-harb/openstack-heat-infrastructure), [Ansible Kubernetes automation](https://github.com/farah-ben-harb/k8s-cluster-automation), [Alif application manifests](https://github.com/farah-ben-harb/Alif.tn-App-k8s), and a [Prometheus-based anomaly detection service](https://github.com/farah-ben-harb/kubernetes-anomaly-detection-openstack). These repositories cover infrastructure definitions, cluster bootstrap, workloads, and observability.
 - **[Cryptocurrency analysis](https://github.com/farah-ben-harb/CryptoCurrency-Project)** — A Jupyter notebook exploring market data with PCA, clustering, classification, and regression. This is an exploratory ML project, with no automated MLOps pipeline in the repository.
+- **[Mini CRM Intelligence](https://github.com/farah-ben-harb/Mlops-Project)** — A separate MLOps project with FastAPI, MLflow, GitHub Actions, GHCR, Terraform, Ansible, and Docker Compose; its model classifies synthetic CRM profiles, not cryptocurrency prices.
 - **[Flask Azure DevOps Pipeline](https://github.com/farah-ben-harb/flask-azure-devops-pipeline)** — A Flask service with tests, Docker packaging, Azure Terraform configuration, GitHub Actions, and Prometheus/Grafana monitoring.
 
 ---
@@ -34,7 +35,7 @@ Docker · Docker Compose · Kubernetes · K3s · kubeadm · containerd · Calico
 
 **CI/CD & security**<br>
 <img src="https://skillicons.dev/icons?i=github,jenkins" alt="GitHub, Jenkins" height="40" /><br>
-GitHub Actions · Jenkins · GHCR · Gitleaks · Trivy · Semgrep · pip-audit · pytest · Ruff
+GitHub Actions · Jenkins · GHCR · Gitleaks · Trivy · Semgrep · Bandit · pip-audit · pytest · Ruff
 
 **Observability**<br>
 <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Prometheus, Grafana" height="40" /><br>
