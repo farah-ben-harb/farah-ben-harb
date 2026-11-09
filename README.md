@@ -13,11 +13,11 @@ I build and document cloud infrastructure and delivery workflows. My public proj
 ### 🚀 Featured projects
 
 - **[FootballMatch AI Platform](https://github.com/farah-ben-harb/footballmatch-ai-platform-mlops)** — A CPU-based football-video analysis service with OpenCV, YOLO11n, FastAPI, MLflow tracking, automated tests, Docker Compose, Helm, Prometheus metrics, and an Argo CD manifest. Jobs are stored in one API process.
+- **DevoRecruiter platform** — The [application monorepo](https://github.com/farah-ben-harb/devorecruiter) and [GitOps repository](https://github.com/farah-ben-harb/devorecruiter-gitops) cover Angular, NestJS, FastAPI, Terraform, Kubernetes, Argo CD, n8n automation, Dynatrace assets, and a guarded infrastructure MCP server.
 - **[DevSecOps Incident Platform](https://github.com/farah-ben-harb/devsecops-incident-platform)** — A FastAPI/PostgreSQL incident API with tests and a Jenkins pipeline defining secret, dependency, and container scans plus image delivery to GHCR.
 - **[GitOps Delivery Platform](https://github.com/farah-ben-harb/gitops-delivery-platform)** — The incident API's Kubernetes manifests, Kustomize overlay, Argo CD configuration, ServiceMonitor, and Grafana dashboard.
 - **Private cloud on OpenStack** — [Heat infrastructure](https://github.com/farah-ben-harb/openstack-heat-infrastructure), [Ansible Kubernetes automation](https://github.com/farah-ben-harb/k8s-cluster-automation), [Alif application manifests](https://github.com/farah-ben-harb/Alif.tn-App-k8s), and a [Prometheus-based anomaly detection service](https://github.com/farah-ben-harb/kubernetes-anomaly-detection-openstack). These repositories cover infrastructure definitions, cluster bootstrap, workloads, and observability.
-- **[Cryptocurrency analysis](https://github.com/farah-ben-harb/CryptoCurrency-Project)** — A Jupyter notebook exploring market data with PCA, clustering, classification, and regression. This is an exploratory ML project, with no automated MLOps pipeline in the repository.
-- **[Mini CRM Intelligence](https://github.com/farah-ben-harb/Mlops-Project)** — A separate MLOps project with FastAPI, MLflow, GitHub Actions, GHCR, Terraform, Ansible, and Docker Compose; its model classifies synthetic CRM profiles, not cryptocurrency prices.
+- **[Mini CRM Intelligence](https://github.com/farah-ben-harb/crm-intelligence-mlops)** — An educational MLOps lab with FastAPI, MLflow, GitHub Actions, GHCR, Terraform, Ansible, and Docker Compose. Its model classifies synthetic CRM profiles.
 - **[Flask Azure DevOps Pipeline](https://github.com/farah-ben-harb/flask-azure-devops-pipeline)** — A Flask service with tests, Docker packaging, Azure Terraform configuration, GitHub Actions, and Prometheus/Grafana monitoring.
 
 ---
