@@ -2,7 +2,9 @@
 
 ---
 
-☁️ **Cloud & DevOps engineering student** | ESPRIT (Tunisia) <br>
+☁️ **Cloud, DevOps & MLOps engineering student** | ESIGELEC (France) · ESPRIT (Tunisia) <br>
+🎯 Seeking a six-month final-year internship from March 2027 <br>
+🌐 **[Portfolio: farah-me.vercel.app](https://farah-me.vercel.app)**
 
 ### About me
 
@@ -51,4 +53,4 @@ Python · Bash · Git · Linux · Java · TypeScript · FastAPI · Flask · Post
 ### Connect with me
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/farah-ben-harb-b26845313/)<br>
-[Email](mailto:benharbfarah85@gmail.com) · [Repositories](https://github.com/farah-ben-harb?tab=repositories)
+[Portfolio](https://farah-me.vercel.app) · [Email](mailto:benharbfarah85@gmail.com) · [Repositories](https://github.com/farah-ben-harb?tab=repositories)
