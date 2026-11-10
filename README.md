@@ -2,7 +2,7 @@
 
 ---
 
-☁️ **Cloud, DevOps & MLOps engineering student** | ESIGELEC (France) · ESPRIT (Tunisia) <br>
+☁️ **Cloud, DevOps & MLOps engineering student** | ESPRIT (Tunisia) <br>
 🎯 Seeking a six-month final-year internship from March 2027 <br>
 🌐 **[Portfolio: farah-me.vercel.app](https://farah-me.vercel.app)**
 
