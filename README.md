@@ -1,80 +1,130 @@
-# Hi 👋, I'm Farah Ben Harb
+<p align="center">
+  <img src="./assets/github-hero.svg" alt="Farah Ben Harb — Cloud and DevOps engineering" width="100%" />
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/farah-ben-harb">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/farah-ben-harb-b26845313/">LinkedIn</a> ·
+  <a href="https://farah-me.vercel.app/">Portfolio</a> ·
+  <a href="mailto:benharbfarah85@gmail.com">Email</a>
+</p>
 
-☁️ **Cloud & DevOps engineering student** | ESPRIT (Tunisia)<br>
-🔧 **Platform Engineering · SRE · DevSecOps · MLOps**<br>
-🌐 **[Portfolio: farah-me.vercel.app](https://farah-me.vercel.app)**
+# Farah Ben Harb
 
-### About me
+**Cloud & DevOps Engineering Student**<br>
+Platform Engineering · SRE · DevSecOps · MLOps
 
-I am a final-year computer engineering student building and documenting cloud infrastructure, delivery workflows and applied AI platforms. My public work focuses on infrastructure as code, Kubernetes and GitOps, CI security checks, observability and reproducible MLOps.
+I design cloud-native delivery systems that make software easier to ship, observe and operate. As a final-year computer engineering student, I work across Azure and OpenStack, Kubernetes and GitOps, security automation, and ML-serving pipelines.
 
-I prefer precise engineering claims: each project below links to its implementation and distinguishes validated runtime paths, static configuration and work that remains in progress.
+My focus is the boundary between application code and a dependable runtime: repeatable infrastructure, traceable artifacts, useful telemetry and delivery workflows that are safe to change.
 
----
+## What I build
 
-### 🚀 Featured projects
+- **Delivery platforms** that turn source code into tested, scanned and traceable artifacts.
+- **Cloud-native runtimes** with Kubernetes automation, GitOps reconciliation, health signals and operational visibility.
+- **Applied AI platforms** that connect model lifecycle, API serving, data infrastructure and observability.
 
-- **[FootballMatch AI Platform](https://github.com/farah-ben-harb/footballmatch-ai-platform-mlops)** — A CPU-first football-video analysis service with FastAPI, OpenCV, YOLO11n, ByteTrack and K-Means. It includes MLflow tracking/registry workflows, Docker Compose, GitHub Actions security gates, GHCR, Helm, Prometheus/Grafana and an Argo CD path. Azure Container Apps and K3s are documented as distinct deployment paths; the default `yolo11n.pt` inference path is not described as automatic champion-model selection.
-- **DevoRecruiter platform** — The [application monorepo](https://github.com/farah-ben-harb/devorecruiter) and [GitOps repository](https://github.com/farah-ben-harb/devorecruiter-gitops) cover Angular, NestJS, FastAPI RAG, PostgreSQL/TypeORM, n8n integration, Docker, Helm and Argo CD configuration. Terraform Azure, Dynatrace and MCP extensions are kept separate when they exist only on work branches; no production deployment is claimed.
-- **[DevSecOps Incident Platform](https://github.com/farah-ben-harb/devsecops-incident-platform)** — A FastAPI/PostgreSQL incident API with health, readiness and metrics endpoints, Docker, tests and a Jenkins pipeline defining secret, dependency and container scans before optional GHCR/GitOps delivery.
-- **[GitOps Delivery Platform](https://github.com/farah-ben-harb/gitops-delivery-platform)** — Kubernetes manifests, Kustomize, Argo CD configuration, PostgreSQL persistence, ServiceMonitor and Grafana dashboard for a GitOps delivery path.
-- **Private cloud on OpenStack** — [Heat infrastructure](https://github.com/farah-ben-harb/openstack-heat-infrastructure), [Ansible Kubernetes automation](https://github.com/farah-ben-harb/k8s-cluster-automation), [Alif application manifests](https://github.com/farah-ben-harb/Alif.tn-App-k8s), and a [Prometheus-based anomaly detection service](https://github.com/farah-ben-harb/kubernetes-anomaly-detection-openstack). These are related lab components covering infrastructure, cluster bootstrap, workloads and observability; they are not presented as one freshly re-deployed platform.
-- **[Mini CRM Intelligence](https://github.com/farah-ben-harb/crm-intelligence-mlops)** — A separate educational MLOps lab with FastAPI, scikit-learn, MLflow, Docker Compose, GitHub Actions, GHCR, Terraform Docker and Ansible. Its model classifies synthetic CRM profiles; AWS is a learning plan, not a claimed deployment.
-- **[Flask Azure DevOps Pipeline](https://github.com/farah-ben-harb/flask-azure-devops-pipeline)** — A Flask service with tests, Docker packaging, GitHub Actions, Terraform targeting an existing Azure VM extension, and Prometheus/Grafana/Alertmanager monitoring.
+## Professional experience
 
----
+### Devoteam — Cloud & DevOps Intern · Jul–Aug 2026
 
-### 🛠️ Tech stack & tools
+Worked on cloud delivery and platform operations across Azure, K3s/Kubernetes, Helm, Argo CD and Dynatrace. My contributions included infrastructure automation with Terraform, GitHub Actions delivery workflows, DevSecOps controls and MCP-assisted operations with Claude Desktop.
 
-**Cloud & infrastructure**<br>
-<img src="https://skillicons.dev/icons?i=azure,terraform,ansible" alt="Azure, Terraform, Ansible" height="40" /><br>
-Azure · Azure Container Apps · Azure VM extensions · OpenStack Heat · Neutron · Nova · Cinder · cloud-init · Terraform · Ansible · Linux · Bash · networking · IAM concepts
+### Earlier engineering experience
 
-**Containers & GitOps**<br>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" alt="Docker, Kubernetes, Helm" height="40" /><br>
-Docker · Docker Compose · Kubernetes · K3s · kubeadm · containerd · Calico · MetalLB · Helm · Kustomize · Argo CD · kind · GHCR · probes · PVC/local-path
+- **Ooredoo — Immersion Internship · 2024–2025:** built a Python/Java log-analysis parser, search interfaces and statistical dashboards for interpreting operational data.
+- **Tunisie Télécom — Introductory Internship · 2022–2023:** developed foundations in networking, systems and telecom infrastructure operations.
 
-**CI/CD & security**<br>
-<img src="https://skillicons.dev/icons?i=github,jenkins" alt="GitHub, Jenkins" height="40" /><br>
-GitHub Actions · Jenkins · Git · Gitleaks · Trivy · Semgrep · Bandit · pip-audit · npm audit · pytest · Ruff · container hardening
+## Selected engineering systems
 
-**Observability & SRE**<br>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Prometheus, Grafana" height="40" /><br>
+### [FootballMatch AI Platform](https://github.com/farah-ben-harb/footballmatch-ai-platform-mlops)
+
+**Problem → build → evidence.** Make CPU-first football-video analysis reproducible instead of leaving it as a standalone inference script. I built an asynchronous FastAPI service around OpenCV sampling, YOLO11n detection, ByteTrack tracking and exploratory K-Means clustering, then connected the service to MLflow tracking/registry workflows, Docker, GHCR, Helm, Prometheus and Grafana. The repository documents two runtime paths — a K3s/Argo CD GitOps path and a separate Azure Container Apps demo — with CI validating tests and security controls.
+
+[Repository](https://github.com/farah-ben-harb/footballmatch-ai-platform-mlops) · [CI workflow](https://github.com/farah-ben-harb/footballmatch-ai-platform-mlops/blob/main/.github/workflows/ci.yml) · [latest observed successful run](https://github.com/farah-ben-harb/footballmatch-ai-platform-mlops/actions/runs/43030421510) · [Azure deployment notes](https://github.com/farah-ben-harb/footballmatch-ai-platform-mlops/blob/main/docs/deployment/azure-container-apps.md)
+
+### [DevoRecruiter](https://github.com/farah-ben-harb/devorecruiter) · [GitOps repository](https://github.com/farah-ben-harb/devorecruiter-gitops)
+
+**Problem → build → evidence.** Bring together a multi-service recruiting application and a delivery model that can evolve independently from application code. The application monorepo combines Angular, NestJS, FastAPI RAG, PostgreSQL/TypeORM and n8n integration; the separate GitOps repository holds charts, manifests and Argo CD configuration. The mainline repositories demonstrate the architecture and CI controls, while Terraform Azure, Dynatrace and MCP extensions remain associated with their work branches rather than being presented as a finished production deployment.
+
+[Application](https://github.com/farah-ben-harb/devorecruiter) · [GitOps](https://github.com/farah-ben-harb/devorecruiter-gitops) · [application workflow](https://github.com/farah-ben-harb/devorecruiter/blob/main/.github/workflows/pipeline.yml)
+
+### [DevSecOps Incident Platform](https://github.com/farah-ben-harb/devsecops-incident-platform)
+
+**Problem → build → evidence.** Create an incident service with operational signals and a release path that treats security as part of delivery. I built a FastAPI/PostgreSQL API with health, readiness and Prometheus metrics, then configured Jenkins stages for tests, secret and dependency checks, filesystem/image scanning, immutable image tags and optional GitOps delivery. The accompanying [GitOps repository](https://github.com/farah-ben-harb/gitops-delivery-platform) contains Kustomize, Argo CD, persistence, ServiceMonitor and Grafana configuration.
+
+[Repository](https://github.com/farah-ben-harb/devsecops-incident-platform) · [Jenkins pipeline](https://github.com/farah-ben-harb/devsecops-incident-platform/blob/main/Jenkinsfile) · [actions history](https://github.com/farah-ben-harb/devsecops-incident-platform/actions) · [GitOps delivery](https://github.com/farah-ben-harb/gitops-delivery-platform)
+
+### OpenStack / Kubernetes automation
+
+**Problem → build → evidence.** Explore how private-cloud primitives become a usable Kubernetes foundation. The [Heat repository](https://github.com/farah-ben-harb/openstack-heat-infrastructure) models Neutron networking, Nova compute and Cinder storage; [Ansible automation](https://github.com/farah-ben-harb/k8s-cluster-automation) prepares Linux, containerd, kubeadm and Calico; [Alif manifests](https://github.com/farah-ben-harb/Alif.tn-App-k8s) represent a workload layer. These repositories are intentionally kept as separate architectural components, with validation workflows for templates and automation.
+
+[Heat repository](https://github.com/farah-ben-harb/openstack-heat-infrastructure) · [Kubernetes automation repository](https://github.com/farah-ben-harb/k8s-cluster-automation)
+
+### [Kubernetes Anomaly Detection](https://github.com/farah-ben-harb/kubernetes-anomaly-detection-openstack)
+
+**Problem → build → evidence.** Turn Kubernetes runtime signals into an actionable anomaly signal. I built a FastAPI service that queries Prometheus for CPU, memory and restart data, applies scaling and Isolation Forest detection, and exposes scores through an API and `/metrics`. The current main line includes container hardening, tests and a successful CI run; the service remains a complementary workload rather than an unverified claim of automatic OpenStack integration.
+
+[Repository](https://github.com/farah-ben-harb/kubernetes-anomaly-detection-openstack) · [CI workflow](https://github.com/farah-ben-harb/kubernetes-anomaly-detection-openstack/blob/main/.github/workflows/ci.yml) · [latest observed successful run](https://github.com/farah-ben-harb/kubernetes-anomaly-detection-openstack/actions/runs/43030635364)
+
+### [Azure IaC & CI/CD](https://github.com/farah-ben-harb/flask-azure-devops-pipeline)
+
+**Problem → build → evidence.** Make a Flask service repeatable to test, package and update on an Azure host. I built GitHub Actions validation, Docker packaging, Terraform for an existing Azure VM extension, and an observability path using Prometheus, Grafana, Alertmanager, node_exporter, cAdvisor and blackbox exporter. The repository demonstrates targeted infrastructure automation; it does not claim that Terraform created the VM itself.
+
+[Repository](https://github.com/farah-ben-harb/flask-azure-devops-pipeline) · [CI/CD workflow](https://github.com/farah-ben-harb/flask-azure-devops-pipeline/blob/main/.github/workflows/ci-cd.yml) · [Terraform workflow](https://github.com/farah-ben-harb/flask-azure-devops-pipeline/blob/main/.github/workflows/terraform-azure.yml)
+
+### Other work
+
+[Mini CRM Intelligence](https://github.com/farah-ben-harb/crm-intelligence-mlops) is a separate MLOps lab for synthetic-profile classification with FastAPI, scikit-learn, MLflow, Docker Compose, GitHub Actions and GHCR. AWS is documented there as a learning plan, not as a completed deployment.
+
+## Technical expertise
+
+### 1. Cloud & Infrastructure
+
+Azure · Azure Container Apps · Terraform · OpenStack Heat · Neutron · Nova · Cinder · Ansible · cloud-init · Linux · Bash · networking · IAM concepts
+
+### 2. Platform Engineering & GitOps
+
+Docker · Kubernetes · K3s · kubeadm · containerd · Helm · Argo CD · Kustomize · GitOps · Calico · MetalLB · GHCR · probes/readiness · PVC/local-path
+
+### 3. CI/CD & DevSecOps
+
+GitHub Actions · Jenkins · pytest · Ruff · Gitleaks · Trivy · Semgrep · Bandit · pip-audit · npm audit · immutable image tags · container hardening
+
+### 4. Observability & SRE
+
 Prometheus · Grafana · Alertmanager · ServiceMonitor · health checks · readiness · logging · metrics · incident diagnosis · Dynatrace in professional context
 
-**Programming, backend & MLOps**<br>
-<img src="https://skillicons.dev/icons?i=python,bash,git,linux" alt="Python, Bash, Git, Linux" height="40" /><br>
-Python · Bash · TypeScript · Java · FastAPI · Flask · NestJS · Angular · PostgreSQL · SQLAlchemy · TypeORM · MySQL · REST APIs · n8n · MLflow · Sentence Transformers · pgvector · RAG · Ollama in the K3s path · OpenCV · YOLO11n · ByteTrack · scikit-learn · pandas · NumPy · Isolation Forest
+### 5. MLOps & Agentic AI
 
-*Optional Jenkins stages such as OWASP Dependency-Check and SonarQube are described as optional, not as guaranteed active gates.*
+MLflow Tracking and Registry workflows · FastAPI serving · OpenCV · YOLO11n · ByteTrack · scikit-learn · K-Means · Isolation Forest · RAG · Sentence Transformers · PostgreSQL/pgvector · Ollama in the K3s path · MCP-assisted operations with Claude Desktop in professional context
 
----
+### 6. Software Engineering & Data
 
-### ✅ Engineering quality
+Python · TypeScript · Java · FastAPI · Flask · NestJS · Angular · PostgreSQL · SQLAlchemy · TypeORM · MySQL · REST APIs · n8n · pandas · NumPy
 
-- [FootballMatch CI](https://github.com/farah-ben-harb/footballmatch-ai-platform-mlops/actions) — tests, Ruff, Gitleaks, Semgrep, Trivy and Compose validation.
-- [Kubernetes anomaly detection CI](https://github.com/farah-ben-harb/kubernetes-anomaly-detection-openstack/actions) — current main-line compilation and tests.
-- [Mini CRM DevSecOps CI](https://github.com/farah-ben-harb/crm-intelligence-mlops/actions) — tests, training, Bandit, Gitleaks, Trivy and GHCR publication.
-- [DevSecOps Jenkinsfile](https://github.com/farah-ben-harb/devsecops-incident-platform/blob/main/Jenkinsfile) — configured test, dependency, secret and container-scanning stages.
+## Engineering evidence
 
-The profile repository also keeps a small [local integrity workflow](./.github/workflows/profile-integrity.yml) for README references and SVG safety. It does not generate statistics, publish artifacts or call cloud APIs.
+The profile highlights implementation evidence instead of decorative counters:
 
----
+- **FootballMatch CI:** [workflow](https://github.com/farah-ben-harb/footballmatch-ai-platform-mlops/blob/main/.github/workflows/ci.yml) · [successful main run](https://github.com/farah-ben-harb/footballmatch-ai-platform-mlops/actions/runs/43030421510)
+- **Kubernetes Anomaly Detection CI:** [workflow](https://github.com/farah-ben-harb/kubernetes-anomaly-detection-openstack/blob/main/.github/workflows/ci.yml) · [successful main run](https://github.com/farah-ben-harb/kubernetes-anomaly-detection-openstack/actions/runs/43030635364)
+- **DevSecOps Incident validation:** [Jenkins pipeline](https://github.com/farah-ben-harb/devsecops-incident-platform/blob/main/Jenkinsfile) · [actions history](https://github.com/farah-ben-harb/devsecops-incident-platform/actions)
+- **Infrastructure automation:** [Azure CI/CD workflow](https://github.com/farah-ben-harb/flask-azure-devops-pipeline/blob/main/.github/workflows/ci-cd.yml) · [Terraform workflow](https://github.com/farah-ben-harb/flask-azure-devops-pipeline/blob/main/.github/workflows/terraform-azure.yml)
 
-### 🎓 Education & professional context
+The profile repository also runs a small [integrity workflow](./.github/workflows/profile-integrity.yml) for README links and local assets. It has no cloud credentials, scheduled generators or external publication steps.
 
-- **Computer engineering student** — ESPRIT, with an engineering path connected to ESIGELEC and a focus on Cloud and Infrastructure.
-- **Devoteam — Cloud & DevOps internship** — professional exposure to Azure, K3s/Kubernetes, GitHub Actions, Helm, Argo CD, Dynatrace and MCP used with Claude Desktop. Personal repositories remain separate from employer work.
+## Certifications & education
 
-### 🏅 GitHub achievements & learning
+- **AWS Cloud Practitioner** — AWS · 2024
+- **OCI Foundations Associate** — Oracle Cloud Infrastructure · 2024
+- **CCNA: Switching, Routing, Wireless** — Cisco · 2023
+- **Engineering Cycle in IT Architecture & Cloud Computing** — ESPRIT · expected graduation 2027
+- **Engineering path connected to ESIGELEC** — computer engineering, Cloud and Infrastructure focus
 
-The profile is reported to include **Pull Shark ×2** and **YOLO**. These achievements are kept secondary to the project evidence and are not represented with copied or third-party badge images. No certification with a public verification link was added without evidence.
+## Connect
 
----
-
-### Connect with me
+If you are building cloud platforms, secure delivery systems, Kubernetes reliability practices or MLOps infrastructure, I would be happy to connect.
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/farah-ben-harb-b26845313/)<br>
 [Portfolio](https://farah-me.vercel.app) · [Email](mailto:benharbfarah85@gmail.com) · [GitHub](https://github.com/farah-ben-harb) · [Repositories](https://github.com/farah-ben-harb?tab=repositories)

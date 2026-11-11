@@ -9,7 +9,7 @@ This file records the evidence boundary for the profile README. It is intentiona
 - Keep `crm-intelligence-mlops` separate; this profile repository does not modify it.
 - Do not add contribution graphs, streak counters, generated daily commits or third-party statistics without a reliable fallback.
 - Do not add a resume, PDF, resume download or resume preview to the profile README.
-- Keep the README lightweight and close to the previous profile design: no hero banner, architecture gallery, animated SVG or statistics wall unless explicitly requested again.
+- Keep the README lightweight: one restrained Mission Control hero is acceptable, but avoid an architecture gallery, animated SVG or statistics wall unless explicitly requested again.
 
 ## Verified snapshot — 11 November 2026
 
@@ -17,7 +17,7 @@ This file records the evidence boundary for the profile README. It is intentiona
 - Recent successful main-line evidence linked from the README: FootballMatch CI, Kubernetes anomaly detection CI and Mini CRM DevSecOps CI.
 - DevoRecruiter has public workflow history including failed runs on `main`; the README therefore describes its delivery controls and repository layout without claiming a green pipeline or production deployment.
 - GitHub GraphQL exposed the current six pinned repositories, but not the achievement cards. Pull Shark ×2 and YOLO remain user-reported rather than rendered as copied assets or counters.
-- No certification with a public verification link was available in the repository evidence reviewed for this implementation, so no certification gallery is displayed.
+- The local portfolio lists AWS Cloud Practitioner, OCI Foundations Associate and CCNA: Switching, Routing, Wireless. The README shows these three names without copied badge assets because public verification links were not available in the reviewed sources.
 
 ## Recommended profile settings (manual)
 
