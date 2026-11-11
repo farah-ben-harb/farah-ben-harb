@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 360" role="img" aria-labelledby="title desc">
+  <title id="title">Farah Ben Harb — Cloud and DevOps engineering</title>
+  <desc id="desc">A restrained midnight engineering banner with a cyan delivery path from code to observability.</desc>
+  <rect width="1600" height="360" rx="24" fill="#080D17"/>
+  <path d="M0 82H1600M0 282H1600M1080 0V360" stroke="#18283B" stroke-width="2"/>
+  <path d="M52 56H310M52 68H214M1260 56H1538M1260 68H1430" stroke="#18283B"/>
+  <g fill="#62DCEB"><circle cx="58" cy="42" r="4"/><circle cx="74" cy="42" r="4"/><circle cx="90" cy="42" r="4"/></g>
+  <text x="52" y="132" fill="#62DCEB" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="4">MISSION CONTROL / ENGINEERING PROFILE</text>
+  <text x="52" y="196" fill="#E9F1F8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="1">FARAH BEN HARB</text>
+  <text x="54" y="232" fill="#A9BBCB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21">Cloud &amp; DevOps Engineering Student</text>
+  <text x="54" y="264" fill="#62DCEB" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">PLATFORM ENGINEERING  ·  SRE  ·  DEVSECOPS  ·  MLOPS</text>
+  <g fill="none" stroke="#62DCEB" stroke-width="2"><path d="M54 312H1510"/><path d="M260 312L300 288H450L490 312M610 312L650 288H800L840 312M960 312L1000 288H1150L1190 312"/></g>
+  <g fill="#111C2E" stroke="#31506D" stroke-width="1.5"><rect x="100" y="292" width="130" height="40" rx="8"/><rect x="450" y="292" width="130" height="40" rx="8"/><rect x="800" y="292" width="130" height="40" rx="8"/><rect x="1150" y="292" width="150" height="40" rx="8"/></g>
+  <g fill="#E9F1F8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" text-anchor="middle"><text x="165" y="317">CODE</text><text x="515" y="317">DELIVERY</text><text x="865" y="317">PLATFORM</text><text x="1225" y="317">OBSERVABILITY</text></g>
+  <text x="1330" y="132" fill="#62DCEB" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">SIGNAL / EVIDENCE FIRST</text>
+  <text x="1330" y="160" fill="#668096" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">CLOUD-NATIVE SYSTEMS</text>
+</svg>
