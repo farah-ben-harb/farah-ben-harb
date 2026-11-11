@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">FootballMatch MLOps architecture</title>
+  <desc id="desc">Video client flows through FastAPI, vision processing and MLflow, then branches to Azure Container Apps or K3s with Helm and Argo CD. Prometheus and Grafana observe both paths.</desc>
+  <rect width="1200" height="330" rx="18" fill="#080D17"/>
+  <style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.label{fill:#E9F1F8;font-size:15px}.meta{fill:#9FB4C8;font-size:12px}.line{stroke:#62DCEB;stroke-width:2;fill:none}.box{fill:#111C2E;stroke:#31506D;stroke-width:1.5}</style>
+  <text x="32" y="34" fill="#62DCEB" font-size="14" letter-spacing="3">FOOTBALLMATCH / MLOPS PATHS</text>
+  <g class="line"><path d="M155 150H220M355 150H420M555 150H650M650 150V88H735M650 150V218H735M880 88H970M880 218H970"/><path d="M1050 88V150M1050 218V150"/></g>
+  <g fill="#62DCEB"><circle cx="220" cy="150" r="4"/><circle cx="420" cy="150" r="4"/><circle cx="650" cy="150" r="4"/><circle cx="1050" cy="150" r="4"/></g>
+  <g class="box"><rect x="35" y="116" width="120" height="68" rx="10"/><rect x="220" y="116" width="135" height="68" rx="10"/><rect x="420" y="116" width="135" height="68" rx="10"/><rect x="735" y="52" width="145" height="72" rx="10"/><rect x="735" y="182" width="145" height="72" rx="10"/><rect x="970" y="116" width="160" height="68" rx="10"/></g>
+  <g class="label" text-anchor="middle"><text x="95" y="145">VIDEO</text><text x="95" y="166">CLIENT</text><text x="287" y="145">FASTAPI</text><text x="287" y="166">JOBS / API</text><text x="487" y="145">VISION</text><text x="487" y="166">YOLO · OPENCV</text><text x="807" y="81">AZURE CONTAINER</text><text x="807" y="102">APPS DEMO</text><text x="807" y="211">K3S · HELM</text><text x="807" y="232">ARGO CD</text><text x="1050" y="145">PROMETHEUS</text><text x="1050" y="166">+ GRAFANA</text></g>
+  <g class="meta"><text x="570" y="130">MLflow tracking / registry</text><text x="570" y="205">RAG: pgvector + Ollama</text><text x="32" y="300">Two deployment targets · shared code and images · no implied Azure ↔ K3s pipeline</text></g>
+</svg>
