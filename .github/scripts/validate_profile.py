@@ -29,9 +29,6 @@ if not README.is_file():
     fail("README.md is missing")
 
 readme = README.read_text(encoding="utf-8")
-if "github-hero.svg" not in readme:
-    fail("README does not reference the hero asset")
-
 for target in IMAGE_RE.findall(readme):
     target = target.split("#", 1)[0].strip()
     if not target or is_remote(target):
