@@ -9,7 +9,7 @@ This file records the evidence boundary for the profile README. It is intentiona
 - Keep `crm-intelligence-mlops` separate; this profile repository does not modify it.
 - Do not add contribution graphs, streak counters, generated daily commits or third-party statistics without a reliable fallback.
 - Do not add a resume, PDF, resume download or resume preview to the profile README.
-- Keep the four local SVGs accessible: every diagram has a title and description and must remain free of scripts or animation.
+- Keep the README lightweight and close to the previous profile design: no hero banner, architecture gallery, animated SVG or statistics wall unless explicitly requested again.
 
 ## Verified snapshot — 11 November 2026
 
