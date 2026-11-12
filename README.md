@@ -3,7 +3,6 @@
 ---
 
 ☁️ **Cloud, DevOps & MLOps engineering student** | ESPRIT (Tunisia) <br>
-🌐 **[Portfolio: farah-me.vercel.app](https://farah-me.vercel.app)**
 
 ### About me
 
